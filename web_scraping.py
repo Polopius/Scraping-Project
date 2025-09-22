@@ -1,9 +1,31 @@
-from bs4 import BeautifulSoup
+import pprint
 import requests
+from bs4 import BeautifulSoup
 
+printer = pprint.PrettyPrinter()
+
+# Base site url
 baseURL = 'https://quotes.toscrape.com'
 
 # Get user agent
 headers = {
-    'User-Agent' = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.2pre) Gecko/20070213 BonEcho/2.0.0.2pre'
+    'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.2pre) Gecko/20070213 BonEcho/2.0.0.2pre'
 }
+
+author_links = []
+
+for x in range(1, 11):
+
+    r = requests.get(f'https://quotes.toscrape.com/page/{x}') # Current page we want to scrape
+    soup = BeautifulSoup(r.content, 'lxml')
+
+    quotes = soup.find_all('div', class_='quote')
+    # print(quotes)
+
+    author_set = {link for item in quotes for span in item.find_all('span') for link in span.find_all('a', href=True)}
+
+    for author in author_set:
+        author_links.append(baseURL + author['href'])
+
+author_links = list(set(author_links))
+printer.pprint(author_links)
