@@ -48,5 +48,5 @@ while page_url:
 df = pd.DataFrame(quotes_data_list)
 print(df.head(10))
 
-df.to_csv('Quotes.csv', index=False)
+df.to_csv('Quotes.csv')
 print('\nData has been saved as csv file.')
