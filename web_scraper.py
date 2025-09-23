@@ -45,9 +45,8 @@ while page_url:
         print('Last page reached')
         page_url = None
 
-# printer.pprint(quotes_data_list)
 df = pd.DataFrame(quotes_data_list)
 print(df.head(10))
 
-df.to_csv('Quotes.csv')
+df.to_csv('Quotes.csv', index=False)
 print('\nData has been saved as csv file.')
