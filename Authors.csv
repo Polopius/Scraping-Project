@@ -1,51 +1,51 @@
-,name,Born,Died,Genres,Influences
-0,Albert Einstein,"in Ulm, kingdom of Württemberg, German empire, March 14, 1879","April 18, 1955","['Science', 'Philosophy', 'Physics']","['Bertrand Russell', 'Sigmund Freud', 'Baruch Spinoza', 'Niels Bohr', 'Karl Pearson', 'Marie Curie', 'Bernhard Riemann', 'Edmond Halley', 'Isaac Newton', 'Michael Faraday', 'James Clerk Maxwell', 'Johannes Kepler', 'Percy Williams Bridgman', 'Emmy Noether', 'Alfred Whitehead']"
-1,J.K. Rowling,"in Yate, South Gloucestershire, England, The United Kingdom, July 31, 1965",Still alive,"['Fiction', 'Young Adult', 'Fantasy']","['Jane Austen', 'Geoffrey Chaucer', 'Oscar Wilde', 'C.S. Lewis']"
-2,Jane Austen,"in Steventon Rectory, Hampshire, England, December 16, 1775","July 18, 1817","['Fiction', 'Romance', 'Humor and Comedy']","['Frances Burney', 'Mary Brunton', 'Samuel Johnson']"
-3,Marilyn Monroe,"in The United States, June 01, 1926","August 05, 1962","['Biographies & Memoirs', 'Nonfiction', 'Poetry']",
-4,André Gide,"in Paris, France, November 22, 1869","February 19, 1951","['Literature & Fiction', 'Biographies & Memoirs']","['Goethe', 'Dostoevsky', 'Rabindranath Tagore', 'Mallarmé', 'Martin du Gard', 'Nietzsche', 'Schopenhauer', 'Wilde', 'Henry Fielding']"
-5,Thomas A. Edison,"in Milan, Ohio, The United States, February 11, 1847","October 18, 1931",['Science'],"['Robert Ingersoll', 'Thomas Paine', 'Joseph Lewis', 'Luther Burbank', 'John Burroughs', 'Nikola Tesla', 'Eadweard Muybridge', 'John Ambrose Fleming', 'Granville Woods', 'Hudson Maxim']"
-6,Eleanor Roosevelt,"in The United States, October 11, 1884","November 07, 1962",['Nonfiction'],
-7,Steve Martin,"in Waco, Texas, The United States, http://stevemartin.com",Still alive,"['Literature & Fiction', 'Biographies & Memoirs', 'Humor']",
-8,Bob Marley,"in Nine Mile, Saint Ann, Jamaica, February 06, 1945","May 11, 1981",['Poetry'],
-9,Dr. Seuss,"in Springfield, Massachusetts, The United States, March 02, 1904","September 24, 1991","[""Children's Books""]",
-10,Douglas Adams,"in Cambridge, England, The United Kingdom, March 11, 1952","May 11, 2001","['Science Fiction', 'Mystery', 'Humor']","['Monty Python', 'Kurt Vonnegut', 'P. G. Wodehouse', 'Charles Dickens', 'Jane Austen']"
-11,Elie Wiesel,"in Sighet, Kingdom of Romania, September 30, 1928","July 02, 2016","['Memoir', 'Fiction']",
-12,Friedrich Nietzsche,"in Röcken, Province of Saxony, Prussia, German Confederation, October 15, 1844","August 25, 1900","['Philosophy', 'Psychology', 'Art']","['Schopenhauer', 'Kant', 'Stirner', 'Voltaire', 'Hegel', 'Aristotle', 'Epicurus', 'Heraclitus', 'Goethe', 'Thomas Carlyle', 'Dostoyevsky', 'Socrates', 'Leopardi', 'Emerson', 'Wagner', 'Winckelmann', 'Hölderlin']"
-13,Mark Twain,"in Florida, Missouri, The United States, November 30, 1835","April 21, 1910","['Literature & Fiction', 'Short Stories', 'Biographies & Memoirs']","['Robert Ingersoll', 'Ambrose Bierce', 'E. Haldeman-Julius', 'Jacques Loeb']"
-14,Allen Saunders,"in The United States, April 24, 1899","January 28, 1986",,
-15,Pablo Neruda,"in Parral, Maule Region, Chile, July 12, 1904","September 23, 1973","['Poetry', 'Biographies & Memoirs']",[]
-16,Ralph Waldo Emerson,"in Boston, Massachusetts, The United States, May 25, 1803","April 27, 1882","['Philosophy', 'Poetry', 'Essays']","['Robert Ingersoll', 'Walt Whitman', 'Henry David Thoreau', 'Samuel Taylor Coleridge', 'Thomas Carlyle', 'William Wordsworth', 'John Muir']"
-17,Mother Teresa,"in Skopje, North Macedonia, August 26, 1910","September 05, 1997","['Catholicism', 'Religion & Spirituality']",
-18,Garrison Keillor,"in Anoka, Minnesota, The United States, August 07, 1942",Still alive,"['Fiction', 'Memoir']",
-19,Jim Henson,"in Greenville, Mississippi, The United States, September 24, 1936","May 16, 1990","[""Children's Books"", 'Literature & Fiction']",
-20,Charles M. Schulz,"in Minneapolis, Minnesota, The United States, November 26, 1922","February 12, 2000","['Comic Strips / Cartoons', ""Children's"", 'Humor']","['Milton Caniff', 'Bill Mauldin']"
-21,William Nicholson,"in Lewes, Sussex, The United Kingdom, January 12, 1948",Still alive,['Science Fiction & Fantasy'],
-22,Jorge Luis Borges,"in Buenos Aires, Argentina, August 24, 1899","June 14, 1986","['Fiction', 'Short Stories', 'Poetry']","['Dante', 'Schopenhauer', 'Kafka', 'Kipling', 'Wells', 'Stevenson', 'Reyes', 'Whitman', 'Fernández', 'Cervantes', 'Casares', 'Schwob', 'Chesterton', 'Blake', 'Quevedo', 'De Quincey', 'Cunninghame Graham', 'Swedenborg']"
-23,George Eliot,"in Nuneaton, Warwickshire, England, The United Kingdom, November 22, 1819","December 22, 1880","['Literature & Fiction', 'Poetry', 'Journalism']","['Jane Austen', 'Walter Scott', 'Charlotte Brontë', 'George Sand', 'Charles Dickens', 'Honoré de Balzac', 'Johann Wolfgang von Goethe', 'Auguste Comte', 'Miguel de Cervantes', 'Arthur Schopenhauer', 'David Strauss', 'Ludwig Feuerbach', 'Herbert Spencer', 'Gottfried Keller', 'Wilhelm Heinrich Riehl']"
-24,George R.R. Martin,"in Bayonne, New Jersey, The United States, September 20, 1948",Still alive,"['Fantasy', 'Science Fiction', 'Horror']","['J.R.R. Tolkien', 'Walter Scott', 'Robert E. Howard', 'Robert A. Heinlein', 'Stan Lee', 'F. Scott Fitzgerald', 'Roger Zelazny', 'H. P. Lovecraft']"
-25,C.S. Lewis,"in Belfast, Ireland, November 29, 1898","November 22, 1963","['Christian', 'Religion', ""Children's""]","['George MacDonald', 'G.K. Chesterton', 'J.R.R. Tolkien', 'Olaf Stapledon', 'David Lindsay', 'James I, King of Scots']"
-26,Martin Luther King Jr.,"in Atlanta, Georgia, The United States, January 15, 1929","April 04, 1968","['Nonfiction', 'Politics', 'Civil Rights']","['Theodore Parker', 'Mahatma Gandhi', 'Howard Thurman', 'Reinhold Niebuhr', 'Thomas Jefferson', 'Henry David Thoreau']"
-27,James Baldwin,"in Harlem, New York, The United States, August 02, 1924","November 30, 1987","['Fiction', 'Politics', 'Poetry']","['Richard Wright', 'Countee Cullen']"
-28,Haruki Murakami,"in Fushimi-ku, Kyoto, Japan, January 12, 1949",Still alive,"['Fiction', 'Surrealism', 'Magical Realism']","['Franz Kafka', 'Fyodor Dostoevsky', 'Francis Scott Fitzgerald', 'Salinger', 'Raymond Carver', 'Kurt Vonnegut', 'Richard Brautigan', 'Jack Kerouac', 'Raymond Chandler', 'Stephen King', 'John Irving']"
-29,Alexandre Dumas fils,"in Paris, France, July 27, 1824","November 27, 1895",['Literature & Fiction'],
-30,Stephenie Meyer,"in Connecticut, The United States, December 24, 1973",Still alive,"['Science Fiction & Fantasy', 'Paranormal Romance', 'Young Adult']",[]
-31,Ernest Hemingway,"in Oak Park, Illinois, The United States, July 21, 1899","July 02, 1961","['Fiction', 'Nonfiction', 'Classics']","['Mark Twain', 'Rudyard Kipling', 'Anton Chekhov', 'Theodore Roosevelt', 'Henry David Thoreau', 'Ivan Turgenev', 'Flaubert', 'Leo Tolstoy', 'Stendhal', 'Dostoyevsky', 'Cézanne']"
-32,Helen Keller,"in Tuscumbia, Alabama, The United States, June 27, 1880","June 01, 1968","['Biographies & Memoirs', 'Nonfiction']",
-33,George Bernard Shaw,"in Dublin, Ireland, July 26, 1856","November 02, 1950","['Literature & Fiction', 'Theater']","['Robert Ingersoll', 'Avro Manhattan', 'Annie Besant', 'Arthur Schopenhauer', 'Richard Wagner', 'Henrik Ibsen', 'Friedrich Nietzsche', 'Henry George']"
-34,Charles Bukowski,"in Andernach, Germany, August 16, 1920","March 09, 1994","['Fiction', 'Contemporary', 'Poetry']","['John Fante', 'Louis-Ferdinand Céline', 'Knut Hamsun', 'Ernest Hemingway']"
-35,Suzanne Collins,"in  Hartford, Connecticut, The United States, August 11, 1962",Still alive,"['Fiction', 'Science Fiction & Fantasy', 'Young Adult']",
-36,J.R.R. Tolkien,"in Bloemfontein, Mangaung, Free State, South Africa, January 03, 1892","September 02, 1973","['Fantasy', 'Fiction', ""Children's""]","['Thomas Aquinas', 'George MacDonald', 'William Morris', 'E.R. Eddison', 'Francis Thompson']"
-37,Alfred Tennyson,"in Somersby, Lincolnshire, England, August 06, 1809","October 06, 1892","['Poetry', 'Drama']","['Arthur Henry Hallam', 'John Keats', 'Thomas Malory']"
-38,Terry Pratchett,"in Beaconsfield, Buckinghamshire, England, The United Kingdom, April 28, 1948","March 12, 2015","['Fantasy & Science Fiction', 'Humor and Comedy', ""Children's""]","['P. G. Wodehouse', 'G. K. Chesterton', 'Lloyd Alexander']"
-39,J.D. Salinger,"in Manhattan, New York, The United States, January 01, 1919","January 27, 2010","['Literature & Fiction', 'Short Stories']","['Sherwood Anderson', 'Anton Chekhov', 'F. Scott Fitzgerald', 'Gustave Flaubert']"
-40,George Carlin,"in New York City, New York, The United States, May 12, 1937","June 22, 2008","['Biographies & Memoirs', 'Nonfiction', 'Humor']",['Lenny Bruce']
-41,John Lennon,"in Liverpool, England, The United Kingdom, October 09, 1940","December 08, 1980","['Biographies & Memoirs', 'Music', 'Poetry']","['Lewis Carroll', 'J.B. Morton', 'Bob Dylan', 'Elvis Presley', 'Chuck Berry', 'Buddy Holly']"
-42,W.C. Fields,"in Darby, Pennsylvania, The United States, January 29, 1880","December 25, 1946","['Biographies & Memoirs', 'Humor and Comedy', 'Mystery']",
-43,Ayn Rand,"in Saint Petersburg, Russian Empire, February 02, 1905","March 06, 1982","['Literature & Fiction', 'Philosophy', 'Nonfiction']","['Aristotle', 'John Locke', 'Thomas Aquinas', 'Friedrich Nietzsche', 'Victor Hugo', 'Henryk Sienkiewicz', 'Fyodor Dostoevsky', 'Ludwig von Mises', 'Isabel Paterson']"
-44,Jimi Hendrix,"in Seattle, Washington, The United States, November 27, 1942","September 18, 1970",['Music'],
-45,J.M. Barrie,"in Kirriemuir, Angus, Scotland, May 09, 1860","June 19, 1937","[""Children's"", 'Fiction', 'Drama']","['Walter Scott', 'Robert Louis Stevenson', 'Oscar Wilde', 'Arthur Conan Doyle', 'David Masson', 'Thomas Carlyle']"
-46,E.E. Cummings,"in Cambridge, Massachusetts, The United States, October 14, 1894","September 03, 1962",['Poetry'],
-47,Khaled Hosseini,"in Kabul, Afghanistan, March 04, 1965",Still alive,['Literature & Fiction'],
-48,Harper Lee,"in Monroeville, Alabama, The United States, April 28, 1926","February 19, 2016",['Literature & Fiction'],
-49,Madeleine L'Engle,"in New York City, New York, The United States, November 29, 1918","September 06, 2007","['Literature & Fiction', 'Science Fiction & Fantasy', 'Biographies & Memoirs']",
+name,Born,Died,Genres,Influences
+Albert Einstein,"in Ulm, kingdom of Württemberg, German empire, March 14, 1879","April 18, 1955","['Science', 'Philosophy', 'Physics']","['Bertrand Russell', 'Sigmund Freud', 'Baruch Spinoza', 'Niels Bohr', 'Karl Pearson', 'Marie Curie', 'Bernhard Riemann', 'Edmond Halley', 'Isaac Newton', 'Michael Faraday', 'James Clerk Maxwell', 'Johannes Kepler', 'Percy Williams Bridgman', 'Emmy Noether', 'Alfred Whitehead']"
+J.K. Rowling,"in Yate, South Gloucestershire, England, The United Kingdom, July 31, 1965",Still alive,"['Fiction', 'Young Adult', 'Fantasy']","['Jane Austen', 'Geoffrey Chaucer', 'Oscar Wilde', 'C.S. Lewis']"
+Jane Austen,"in Steventon Rectory, Hampshire, England, December 16, 1775","July 18, 1817","['Fiction', 'Romance', 'Humor and Comedy']","['Frances Burney', 'Mary Brunton', 'Samuel Johnson']"
+Marilyn Monroe,"in The United States, June 01, 1926","August 05, 1962","['Biographies & Memoirs', 'Nonfiction', 'Poetry']",
+André Gide,"in Paris, France, November 22, 1869","February 19, 1951","['Literature & Fiction', 'Biographies & Memoirs']","['Goethe', 'Dostoevsky', 'Rabindranath Tagore', 'Mallarmé', 'Martin du Gard', 'Nietzsche', 'Schopenhauer', 'Wilde', 'Henry Fielding']"
+Thomas A. Edison,"in Milan, Ohio, The United States, February 11, 1847","October 18, 1931",['Science'],"['Robert Ingersoll', 'Thomas Paine', 'Joseph Lewis', 'Luther Burbank', 'John Burroughs', 'Nikola Tesla', 'Eadweard Muybridge', 'John Ambrose Fleming', 'Granville Woods', 'Hudson Maxim']"
+Eleanor Roosevelt,"in The United States, October 11, 1884","November 07, 1962",['Nonfiction'],
+Steve Martin,No information,Still alive,"['Literature & Fiction', 'Biographies & Memoirs', 'Humor']",
+Bob Marley,"in Nine Mile, Saint Ann, Jamaica, February 06, 1945","May 11, 1981",['Poetry'],
+Dr. Seuss,"in Springfield, Massachusetts, The United States, March 02, 1904","September 24, 1991","[""Children's Books""]",
+Douglas Adams,"in Cambridge, England, The United Kingdom, March 11, 1952","May 11, 2001","['Science Fiction', 'Mystery', 'Humor']","['Monty Python', 'Kurt Vonnegut', 'P. G. Wodehouse', 'Charles Dickens', 'Jane Austen']"
+Elie Wiesel,"in Sighet, Kingdom of Romania, September 30, 1928","July 02, 2016","['Memoir', 'Fiction']",
+Friedrich Nietzsche,"in Röcken, Province of Saxony, Prussia, German Confederation, October 15, 1844","August 25, 1900","['Philosophy', 'Psychology', 'Art']","['Schopenhauer', 'Kant', 'Stirner', 'Voltaire', 'Hegel', 'Aristotle', 'Epicurus', 'Heraclitus', 'Goethe', 'Thomas Carlyle', 'Dostoyevsky', 'Socrates', 'Leopardi', 'Emerson', 'Wagner', 'Winckelmann', 'Hölderlin']"
+Mark Twain,"in Florida, Missouri, The United States, November 30, 1835","April 21, 1910","['Literature & Fiction', 'Short Stories', 'Biographies & Memoirs']","['Robert Ingersoll', 'Ambrose Bierce', 'E. Haldeman-Julius', 'Jacques Loeb']"
+Allen Saunders,"in The United States, April 24, 1899","January 28, 1986",,
+Pablo Neruda,"in Parral, Maule Region, Chile, July 12, 1904","September 23, 1973","['Poetry', 'Biographies & Memoirs']",[]
+Ralph Waldo Emerson,"in Boston, Massachusetts, The United States, May 25, 1803","April 27, 1882","['Philosophy', 'Poetry', 'Essays']","['Robert Ingersoll', 'Walt Whitman', 'Henry David Thoreau', 'Samuel Taylor Coleridge', 'Thomas Carlyle', 'William Wordsworth', 'John Muir']"
+Mother Teresa,"in Skopje, North Macedonia, August 26, 1910","September 05, 1997","['Catholicism', 'Religion & Spirituality']",
+Garrison Keillor,"in Anoka, Minnesota, The United States, August 07, 1942",Still alive,"['Fiction', 'Memoir']",
+Jim Henson,"in Greenville, Mississippi, The United States, September 24, 1936","May 16, 1990","[""Children's Books"", 'Literature & Fiction']",
+Charles M. Schulz,"in Minneapolis, Minnesota, The United States, November 26, 1922","February 12, 2000","['Comic Strips / Cartoons', ""Children's"", 'Humor']","['Milton Caniff', 'Bill Mauldin']"
+William Nicholson,"in Lewes, Sussex, The United Kingdom, January 12, 1948",Still alive,['Science Fiction & Fantasy'],
+Jorge Luis Borges,"in Buenos Aires, Argentina, August 24, 1899","June 14, 1986","['Fiction', 'Short Stories', 'Poetry']","['Dante', 'Schopenhauer', 'Kafka', 'Kipling', 'Wells', 'Stevenson', 'Reyes', 'Whitman', 'Fernández', 'Cervantes', 'Casares', 'Schwob', 'Chesterton', 'Blake', 'Quevedo', 'De Quincey', 'Cunninghame Graham', 'Swedenborg']"
+George Eliot,"in Nuneaton, Warwickshire, England, The United Kingdom, November 22, 1819","December 22, 1880","['Literature & Fiction', 'Poetry', 'Journalism']","['Jane Austen', 'Walter Scott', 'Charlotte Brontë', 'George Sand', 'Charles Dickens', 'Honoré de Balzac', 'Johann Wolfgang von Goethe', 'Auguste Comte', 'Miguel de Cervantes', 'Arthur Schopenhauer', 'David Strauss', 'Ludwig Feuerbach', 'Herbert Spencer', 'Gottfried Keller', 'Wilhelm Heinrich Riehl']"
+George R.R. Martin,"in Bayonne, New Jersey, The United States, September 20, 1948",Still alive,"['Fantasy', 'Science Fiction', 'Horror']","['J.R.R. Tolkien', 'Walter Scott', 'Robert E. Howard', 'Robert A. Heinlein', 'Stan Lee', 'F. Scott Fitzgerald', 'Roger Zelazny', 'H. P. Lovecraft']"
+C.S. Lewis,"in Belfast, Ireland, November 29, 1898","November 22, 1963","['Christian', 'Religion', ""Children's""]","['George MacDonald', 'G.K. Chesterton', 'J.R.R. Tolkien', 'Olaf Stapledon', 'David Lindsay', 'James I, King of Scots']"
+Martin Luther King Jr.,"in Atlanta, Georgia, The United States, January 15, 1929","April 04, 1968","['Nonfiction', 'Politics', 'Civil Rights']","['Theodore Parker', 'Mahatma Gandhi', 'Howard Thurman', 'Reinhold Niebuhr', 'Thomas Jefferson', 'Henry David Thoreau']"
+James Baldwin,"in Harlem, New York, The United States, August 02, 1924","November 30, 1987","['Fiction', 'Politics', 'Poetry']","['Richard Wright', 'Countee Cullen']"
+Haruki Murakami,"in Fushimi-ku, Kyoto, Japan, January 12, 1949",Still alive,"['Fiction', 'Surrealism', 'Magical Realism']","['Franz Kafka', 'Fyodor Dostoevsky', 'Francis Scott Fitzgerald', 'Salinger', 'Raymond Carver', 'Kurt Vonnegut', 'Richard Brautigan', 'Jack Kerouac', 'Raymond Chandler', 'Stephen King', 'John Irving']"
+Alexandre Dumas fils,"in Paris, France, July 27, 1824","November 27, 1895",['Literature & Fiction'],
+Stephenie Meyer,"in Connecticut, The United States, December 24, 1973",Still alive,"['Science Fiction & Fantasy', 'Paranormal Romance', 'Young Adult']",[]
+Ernest Hemingway,"in Oak Park, Illinois, The United States, July 21, 1899","July 02, 1961","['Fiction', 'Nonfiction', 'Classics']","['Mark Twain', 'Rudyard Kipling', 'Anton Chekhov', 'Theodore Roosevelt', 'Henry David Thoreau', 'Ivan Turgenev', 'Flaubert', 'Leo Tolstoy', 'Stendhal', 'Dostoyevsky', 'Cézanne']"
+Helen Keller,"in Tuscumbia, Alabama, The United States, June 27, 1880","June 01, 1968","['Biographies & Memoirs', 'Nonfiction']",
+George Bernard Shaw,"in Dublin, Ireland, July 26, 1856","November 02, 1950","['Literature & Fiction', 'Theater']","['Robert Ingersoll', 'Avro Manhattan', 'Annie Besant', 'Arthur Schopenhauer', 'Richard Wagner', 'Henrik Ibsen', 'Friedrich Nietzsche', 'Henry George']"
+Charles Bukowski,"in Andernach, Germany, August 16, 1920","March 09, 1994","['Fiction', 'Contemporary', 'Poetry']","['John Fante', 'Louis-Ferdinand Céline', 'Knut Hamsun', 'Ernest Hemingway']"
+Suzanne Collins,"in  Hartford, Connecticut, The United States, August 11, 1962",Still alive,"['Fiction', 'Science Fiction & Fantasy', 'Young Adult']",
+J.R.R. Tolkien,"in Bloemfontein, Mangaung, Free State, South Africa, January 03, 1892","September 02, 1973","['Fantasy', 'Fiction', ""Children's""]","['Thomas Aquinas', 'George MacDonald', 'William Morris', 'E.R. Eddison', 'Francis Thompson']"
+Alfred Tennyson,"in Somersby, Lincolnshire, England, August 06, 1809","October 06, 1892","['Poetry', 'Drama']","['Arthur Henry Hallam', 'John Keats', 'Thomas Malory']"
+Terry Pratchett,"in Beaconsfield, Buckinghamshire, England, The United Kingdom, April 28, 1948","March 12, 2015","['Fantasy & Science Fiction', 'Humor and Comedy', ""Children's""]","['P. G. Wodehouse', 'G. K. Chesterton', 'Lloyd Alexander']"
+J.D. Salinger,"in Manhattan, New York, The United States, January 01, 1919","January 27, 2010","['Literature & Fiction', 'Short Stories']","['Sherwood Anderson', 'Anton Chekhov', 'F. Scott Fitzgerald', 'Gustave Flaubert']"
+George Carlin,"in New York City, New York, The United States, May 12, 1937","June 22, 2008","['Biographies & Memoirs', 'Nonfiction', 'Humor']",['Lenny Bruce']
+John Lennon,"in Liverpool, England, The United Kingdom, October 09, 1940","December 08, 1980","['Biographies & Memoirs', 'Music', 'Poetry']","['Lewis Carroll', 'J.B. Morton', 'Bob Dylan', 'Elvis Presley', 'Chuck Berry', 'Buddy Holly']"
+W.C. Fields,"in Darby, Pennsylvania, The United States, January 29, 1880","December 25, 1946","['Biographies & Memoirs', 'Humor and Comedy', 'Mystery']",
+Ayn Rand,"in Saint Petersburg, Russian Empire, February 02, 1905","March 06, 1982","['Literature & Fiction', 'Philosophy', 'Nonfiction']","['Aristotle', 'John Locke', 'Thomas Aquinas', 'Friedrich Nietzsche', 'Victor Hugo', 'Henryk Sienkiewicz', 'Fyodor Dostoevsky', 'Ludwig von Mises', 'Isabel Paterson']"
+Jimi Hendrix,"in Seattle, Washington, The United States, November 27, 1942","September 18, 1970",['Music'],
+J.M. Barrie,"in Kirriemuir, Angus, Scotland, May 09, 1860","June 19, 1937","[""Children's"", 'Fiction', 'Drama']","['Walter Scott', 'Robert Louis Stevenson', 'Oscar Wilde', 'Arthur Conan Doyle', 'David Masson', 'Thomas Carlyle']"
+E.E. Cummings,"in Cambridge, Massachusetts, The United States, October 14, 1894","September 03, 1962",['Poetry'],
+Khaled Hosseini,"in Kabul, Afghanistan, March 04, 1965",Still alive,['Literature & Fiction'],
+Harper Lee,"in Monroeville, Alabama, The United States, April 28, 1926","February 19, 2016",['Literature & Fiction'],
+Madeleine L'Engle,"in New York City, New York, The United States, November 29, 1918","September 06, 2007","['Literature & Fiction', 'Science Fiction & Fantasy', 'Biographies & Memoirs']",

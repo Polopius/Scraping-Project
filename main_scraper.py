@@ -31,13 +31,13 @@ if session:
         author_info_list = author_data_scraper(author_data_list, headers)
         print('# Saving author data completed...')
         
-        print('Converting data to csv...')
-        quotes_df = pd.DataFrame(quotes_data_list, index=False)
-        authors_df = pd.DataFrame(author_info_list, index=False)
-        print('Csv conversion completed...')
+        print('Saving data to csv...')
+        quotes_df = pd.DataFrame(quotes_data_list)
+        authors_df = pd.DataFrame(author_info_list)
         
-        authors_df.to_csv('Authors.csv')
-        quotes_df.to_csv('Quotes.csv')
+        authors_df.to_csv('Authors.csv', index=False)
+        quotes_df.to_csv('Quotes.csv', index=False)
+        print('Data saved!')
     finally:
         print("\nClosing session")
         session.close()

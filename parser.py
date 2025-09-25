@@ -63,11 +63,12 @@ def author_data_scraper(unique_author_data_list, headers=None):
                 if text:
                     born_data = text
             
-            born_date = born_title.find_next_sibling('div', class_='dataItem').text.strip()
-            if born_data and born_date:
-                born_data += ", " + born_date
-            elif born_date:
-                born_data = born_title.find_next_sibling('div', class_='dataItem').text.strip()
+            born_date = born_title.find_next_sibling()
+
+            if born_data and born_date.name == 'div' and 'dataItem' in born_date.get('class', []):
+                born_data += ", " + born_date.text.strip()
+            elif born_date.name == 'div' and 'dataItem' in born_date.get('class', []):
+                born_data = born_date.text.strip()
             else:
                 born_data = "No information"
                 
